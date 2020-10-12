@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Thanks for visiting my GitHub Profile! There's not much to see here because most of my repositories are either set to private or not here.
+
+Check out my site to see more about me - rainulf.ca 😄 
+
 <!--
 **rainulf/rainulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
